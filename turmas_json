@@ -1,0 +1,25 @@
+[
+    {
+        "nome": "2Q",
+        "curso": "ADS",
+        "alunos": [
+            {
+                "nome": "thiago",
+                "matricula": "h92534",
+                "notas": [
+                    10.0
+                ]
+            }
+        ],
+        "aulas": [
+            {
+                "data": "03/11/2025",
+                "conteudo": "asldoasldoa"
+            },
+            {
+                "data": "04/11/2025",
+                "conteudo": "a aula hoje foi sobre poo de python"
+            }
+        ]
+    }
+]
